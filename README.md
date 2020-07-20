@@ -5,4 +5,4 @@ Simple Noclip script
 ## Requirements
 
 - ESX
-- Mythic Notify
+- Mythic Notify https://github.com/JayMontana36/mythic_notify
